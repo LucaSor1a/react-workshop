@@ -29,3 +29,6 @@
 - Start: `yarn start` o `npm run start`.
 - Test: `yarn test` o `npm run test`.
 - Build: `yarn build` o `npm run build`.
+
+## Links
+- [Video](<https://us02web.zoom.us/rec/share/xdJ0I5b_0WVJYInz1W6GV48tAJr_aaa81CIW-KUMykx8OHaoBzmUFl2mqW4I-vZ4?startTime=1587841762000>)
